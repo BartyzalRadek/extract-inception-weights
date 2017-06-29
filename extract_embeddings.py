@@ -14,7 +14,7 @@
 # ==============================================================================
 
 """
-Simple extraction of specific layer weights from Inception.
+Simple extraction of specific layer weights from Inception net.
 
 Use optional arguments:
 
