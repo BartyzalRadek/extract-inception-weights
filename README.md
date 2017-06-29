@@ -1,6 +1,10 @@
-# extract-inception-weights
+# Extract Inception weights
 
 Simple extraction of specific layer weights (embeddings) from the pre-trained Inception net.
+
+#### Requirements:
+
+[TensorFlow 0.12.0-rc1](https://github.com/tensorflow/tensorflow/releases/tag/0.12.0-rc1)
 
 #### How to use:
 
