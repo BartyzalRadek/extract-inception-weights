@@ -3,8 +3,12 @@
 Simple extraction of specific layer weights (embeddings) from the pre-trained Inception net.
 
 #### Requirements:
+Tested and working on:
 
-[TensorFlow 0.12.0-rc1](https://github.com/tensorflow/tensorflow/releases/tag/0.12.0-rc1)
+ * [TensorFlow 0.12.0-rc1](https://github.com/tensorflow/tensorflow/releases/tag/0.12.0-rc1)
+ * [TensorFlow 1.1.0](https://github.com/tensorflow/tensorflow/releases/tag/v1.1.0)
+
+It's so simple that it should work on pretty much any version.
 
 #### How to use:
 
