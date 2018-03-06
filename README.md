@@ -24,3 +24,4 @@ All the images must be in JPEG format.
  * --image_dir = Path to directory containing images. Default is 'img'. 
  * --embed_dir = Path to embedding dir - another directory will be created inside, named after the chosen layer. Default is 'embeddings'.
  * --layer = Name of the hidden layer to extract weights from. Default is 'pool_3:0' which is the next to last layer.
+ * --visualize_graph = True/False whether you want to visualize the graph in Tensorboard.
